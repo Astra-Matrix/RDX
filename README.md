@@ -178,3 +178,6 @@ Contributions are welcome! Please ensure:
 
 RDX is inspired by the CAC-Prime architecture and constraint-aware compression principles.
 
+---
+
+by ASTRA MATRIX
